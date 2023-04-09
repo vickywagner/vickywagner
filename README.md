@@ -8,6 +8,15 @@ As you might have read above, I’m a Full-Stack Web Developer and I also have a
 
 - 📫 How to reach me **victoriaawagnertrento@gmail.com**
 
+
+## Skills💡
+- 💬 Excellent communication skills
+- 💻 Problem-solving skills
+- 🤝 Adaptability and flexibility
+- 🧩 Teamwork and collaboration
+- ⏰ Time management and organizational skills
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/victoria-wagner-trento-153441176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victoria-wagner-trento-153441176/" height=20" width="30" /></a>
