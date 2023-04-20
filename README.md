@@ -4,7 +4,7 @@
 ## About me 💬
 As you might have read above, I’m a Full-Stack Web Developer and I also have a degree in Public Relations. I’m a proactive, responsible and extremely motivated person to constantly develop my skills and grow professionally. I love new challenges and teamwork.
 
-- 🌱 I’m currently learning **Typescript** and working on my portfolio 
+- 🌱 I’m currently learning perfecting my skills in **Typescript, MongoDB** and **Tailwind** 
 
 - 📫 How to reach me **victoriaawagnertrento@gmail.com**
 
